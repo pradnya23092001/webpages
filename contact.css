@@ -1,0 +1,9 @@
+.maindiv{
+	height: 500px;
+	width:100px;	
+	background-image: url("resto12.webp");
+
+   
+    	background-size: cover;
+	background: transparent;
+}
